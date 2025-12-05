@@ -1,0 +1,22 @@
+{
+  "name": "delivery-app",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel ./*.html",
+    "build": "parcel build ./*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvin-kamp/delivery-app.git"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "author": "Calvin Kamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvin-kamp/delivery-app/issues"
+  },
+  "homepage": "https://github.com/calvin-kamp/delivery-app#readme"
+}
